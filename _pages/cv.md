@@ -11,29 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Nottingham, 2018 - present
-* M.Sc. in Human Computer Interaction, University of Nottingham, 2015 - 2016
-* B.Sc. in Computer Systems Engineering, Pachuca Institute of Technology, 2008 - 2013
-
-Publications
-======
-* Peer reviewed
-  * Gisela Reyes-Cruz, Joel Fischer, and Stuart Reeves. _Reframing disability as competency: Unpacking everyday technology practices of people with visual impairments._ To appear in Proceedings of the 2020 ACM Conference on Human Factors in Computing Systems, CHI '20. ACM. [PDF](../files/Reframing disability as competency.pdf)
-* Workshop contribution
-  * Gisela Reyes-Cruz, Joel Fischer, and Stuart Reeves. _An ethnographic study of visual impairments for voice user interface design._ Presented at the Workshop: Addressing the Challenges of Situationally-Induced Impairments and Disabilities in Mobile Interaction, CHI'19. May 2019, Glasgow, UK. [PDF](../files/Visual impairments and voice user interface design.pdf)
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Teaching support (Feb 2019 - Jan 2020)
-  * Provided support in lab sessions, reviewed ethics documents for students projects involving user research and marked modules coursework at the School of Computer Science.
-  * Modules included Mixed Reality Technologies, Design Ethnography and Mobile Device Programming.
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-* Research Assistant (May 2019 - Aug 2019)
-  * Supported research activities for projects at the Mixed Reality lab (School of Computer Science).
-  * Duties included exit interviews after virtual reality display and fieldwork observations at a community park.
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-* Business Analyst / Product Owner (Apr 2017 - Sep 2018)
-  * Under Scrum methodology for software development, I was responsible for requirements elicitation, product backlog management and stakeholder management to ensure business requirements and user needs were well understood throughout entire product lifecycle.
-
-* Web developer (May 2014 - Sep 2015)
-  * End-to-end development on web applications for a State University, automating administrative and teaching processes within different departments.
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
