@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gisela Reyes Cruz"
+title: "Gisela Reyes-Cruz"
 excerpt: "About Me"
 author_profile: true
 redirect_from:
