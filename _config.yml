@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Gisela Reyes-Cruz"
-description              : &description "PhD Researcher"
+description              : &description "Research Fellow"
 url                      : https://gis83.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gis83/gis83.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gisela Reyes-Cruz"
   avatar           : "profile-photo.jpg"
-  avatardesc       : "Headshot of a brown-skinned young woman with dark, curly hair. She is smiling lightly, a dimple on the right cheek is visible."
-  bio              : "PhD Researcher at the University of Nottingham. Based in the <a style='color: black;' href='https://www.nottingham.ac.uk/research/groups/mixedrealitylab/'>Mixed Reality Lab</a>, <a style='color: black;' href='https://www.nottingham.ac.uk/ComputerScience/index.aspx'>School of Computer Science</a>."
+  avatardesc       : "Headshot of a brown-skinned young woman with dark, curly hair. She is smiling lightly; a dimple on the right cheek is visible."
+  bio              : "Research Fellow at the University of Nottingham. Based in the <a style='color: black;' href='https://www.nottingham.ac.uk/research/groups/mixedrealitylab/'>Mixed Reality Lab</a>, <a style='color: black;' href='https://www.nottingham.ac.uk/ComputerScience/index.aspx'>School of Computer Science</a>."
   location         : "Nottingham, UK"
   employer         :
   pubmed           :

@@ -1,10 +1,9 @@
 ---
-permalink: /research/
+permalink: /under-construction-000000000000/
 title: "Research projects"
 author_profile: true
 redirect_from:
-  - /md/
-  - /research.html
+  - //
 ---
 
 ## Reframing disability as competency: Unpacking everyday technology practices of people with visual impairments.
