@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Research Fellow – University of Nottingham. _Jan 2022 - Present_
+* Research Fellow – University of Nottingham. _Jan 2023 - Present_
 * Research Assistant - University of Nottingham. _Nov 2021 - Jan 2023_
 * Teaching Support - University of Nottingham. _2019 - 2022_
 * Research Assistant - University of Nottingham. _2020 & 2021_

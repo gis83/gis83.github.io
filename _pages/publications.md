@@ -9,16 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Journal Article
+Journal Articles
 ======
-* __Gisela Reyes-Cruz__, Joel E. Fischer, and Stuart Reeves. 2022. _Demonstrating Interaction: The Case of Assistive Technology._ To appear in ACM Trans. Comput.-Hum. Interact. 1, 1, Article 1 (March 2022), 38 pages. [DOI](https://doi.org/10.1145/3514236), [PDF](../files/accessible-TOCHI-Demonstrating-Interaction.pdf)  
+* __Gisela Reyes-Cruz__, Joel E. Fischer, and Stuart Reeves. 2022. _Demonstrating Interaction: The Case of Assistive Technology_. ACM Trans. Comput.-Hum. Interact. 29, 5, Article 48 (October 2022), 37 pages. [Link](https://dl.acm.org/doi/abs/10.1145/3514236), [PDF](../files/accessible-TOCHI-Demonstrating-Interaction.pdf)  
 
+* Cecily Pepper, __Gisela Reyes-Cruz__, Ana Rita Pena, Liz Dowthwaite, Camilla M Babbage, Hanne Wagner, Elena Nichele, Joel E Fischer. 2022. _Understanding Trust and Changes in Use After a Year With the NHS COVID-19 Contact Tracing App in the United Kingdom: Longitudinal Mixed Methods Study._ J Med Internet Res 2022;24(10):e40558 [Link](https://www.jmir.org/2022/10/e40558)
 
 Conference Proceedings
 =======
-* __Gisela Reyes Cruz__. 2021. _Designing to Support and Extend the Competencies of People with Visual Impairments._ Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, Article 68, 1–6. [DOI](https://dl.acm.org/doi/10.1145/3411763.3443425), [PDF](../files/CHI2021-DC.pdf), [Poster](../files/CHI2021-DC-poster.pdf), [Presentation](https://www.youtube.com/watch?v=SKjxuqtx62A)
-* __Gisela Reyes-Cruz__, Joel E. Fischer, and Stuart Reeves. 2020. _Reframing Disability as Competency: Unpacking Everyday Technology Practices of People with Visual Impairments._ In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13. [DOI](https://doi.org/10.1145/3313831.3376767), [PDF](../files/Reframing-disability-as-competency.pdf), [Presentation](https://www.youtube.com/watch?v=-Pk3MzIe9NM)
-* Velvet Spors, __Gisela Reyes Cruz__, H. R. Cameron, Martin Flintham, Pat Brundell, and David Murphy. 2020. _Plastic Buttons, Complex People: An Ethnomethodology-informed Ethnography of a Video Game Museum._ In Proceedings of the Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '20). Association for Computing Machinery, New York, NY, USA, 594–605. [DOI](https://dl.acm.org/doi/10.1145/3410404.3414234), [Presentation](https://www.youtube.com/watch?v=PtE6cOWnf_I)
+* __Gisela Reyes-Cruz__, Joel Fischer, and Stuart Reeves. 2022. _Supporting Awareness of Visual Impairments and Accessibility Reflections through Video Demos and Design Cards._ In Nordic Human-Computer Interaction Conference (NordiCHI '22). Association for Computing Machinery, New York, NY, USA, Article 67, 1–15. [Link](https://dl.acm.org/doi/abs/10.1145/3546155.3546697)
+* __Gisela Reyes Cruz__. 2021. _Designing to Support and Extend the Competencies of People with Visual Impairments._ Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, Article 68, 1–6. [Link](https://dl.acm.org/doi/10.1145/3411763.3443425), [PDF](../files/CHI2021-DC.pdf), [Poster](../files/CHI2021-DC-poster.pdf), [Presentation](https://www.youtube.com/watch?v=SKjxuqtx62A)
+* __Gisela Reyes-Cruz__, Joel E. Fischer, and Stuart Reeves. 2020. _Reframing Disability as Competency: Unpacking Everyday Technology Practices of People with Visual Impairments._ In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13. [Link](https://doi.org/10.1145/3313831.3376767), [PDF](../files/Reframing-disability-as-competency.pdf), [Presentation](https://www.youtube.com/watch?v=-Pk3MzIe9NM)
+* Velvet Spors, __Gisela Reyes Cruz__, H. R. Cameron, Martin Flintham, Pat Brundell, and David Murphy. 2020. _Plastic Buttons, Complex People: An Ethnomethodology-informed Ethnography of a Video Game Museum._ In Proceedings of the Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '20). Association for Computing Machinery, New York, NY, USA, 594–605. [Link](https://dl.acm.org/doi/10.1145/3410404.3414234), [Presentation](https://www.youtube.com/watch?v=PtE6cOWnf_I)
 
 Workshop Contributions
 ========
