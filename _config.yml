@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Gisela Reyes-Cruz"
-  avatar           : "profile-photo.jpg"
+  avatar           : "gisela-profile-photo-2023.jpg"
   avatardesc       : "Headshot of a brown-skinned young woman with dark, curly hair. She is smiling lightly; a dimple on the right cheek is visible."
-  bio              : "Research Fellow at the University of Nottingham. Based in the <a style='color: black;' href='https://www.nottingham.ac.uk/research/groups/mixedrealitylab/'>Mixed Reality Lab</a>, <a style='color: black;' href='https://www.nottingham.ac.uk/ComputerScience/index.aspx'>School of Computer Science</a>."
+  bio              : "Transitional Assistant Professor at the University of Nottingham (<a style='color: black;' href='https://www.nottingham.ac.uk/ComputerScience/index.aspx'>School of Computer Science</a>)"
   location         : "Nottingham, UK"
-  employer         :
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=EQ520LIAAAAJ&hl=en"
-  email            :
+  email            : "gisela.reyescruz@nottingham.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "giselareyescruz"
-  orcid            :
+  orcid            : "https://orcid.org/0000-0001-5363-5489"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
