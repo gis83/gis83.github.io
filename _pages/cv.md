@@ -19,6 +19,8 @@ M.Sc. in Human Computer Interaction, University of Nottingham, _2015 - 2016_
 B.Sc. in Computer Systems Engineering, Pachuca Institute of Technology, _2008 - 2013_
 
 ## Research experience
+Transitional Assistant Professor - University of Nottingham. _2023 - Present_
+
 Research Fellow – University of Nottingham. _2022 - 2023_
 
 Research Intern - University of Nottingham. _2021 - 2022_
