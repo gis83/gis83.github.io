@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I am co-convening the Mixed Reality module (COMP4036) in Spring 2025.
+
 In the past I have provided teaching support for the modules: Human-AI Interaction (COMP3074), Design Ethnography (COMP4017), Code First: Girls (Python basics), Mobile Device Programming (G53MDP), Code First: Girls (Web development), and Mixed Reality Technologies (G54MRT).
 
 I supervise undergraduate and postgraduate's projects on HCI and HRI topics, for instance related to telepresence robots and technologies for accessibility. 
